@@ -16,6 +16,16 @@
     "angularJS",
     "zurb-foundation"
   ],
+  "window": {
+    "toolbar": true,
+    "resizable": false,
+    "width": 1000,
+    "height": 600,
+    "min_width": 600,
+    "min_height": 400,
+    "max_width": 1000,
+    "max_height": 600
+  },
   "author": "Muller Fernandes da Silva",
   "license": "ISC",
   "bugs": {

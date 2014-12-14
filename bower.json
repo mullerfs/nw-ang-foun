@@ -1,0 +1,29 @@
+{
+  "name": "template01",
+  "version": "0.0.1",
+  "homepage": "https://github.com/mullerfs/nw-ang-foun",
+  "description": "template para configurar um projeto node-webkit, angularJS e foundation",
+  "main": "app/index.html",
+  "authors": [
+    "Muller Fernandes da Silva"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "app/components"
+  ],
+  "keywords": [
+    "angularJS",
+    "node-webkit",
+    "foundation"
+  ],
+  "dependencies": {
+    "angular": "~1.3.6",
+    "foundation": "~5.5.0"
+  }
+}
