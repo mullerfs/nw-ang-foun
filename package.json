@@ -1,0 +1,25 @@
+{
+  "name": "template01",
+  "version": "0.0.1",
+  "description": "template para projetos em node-webkit, angularJS, e Foundation",
+  "main": "app/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mullerfs/nw-ang-foun"
+  },
+  "keywords": [
+    "nodeJS",
+    "node-webkit",
+    "angularJS",
+    "zurb-foundation"
+  ],
+  "author": "Muller Fernandes da Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mullerfs/nw-ang-foun/issues"
+  },
+  "homepage": "https://github.com/mullerfs/nw-ang-foun"
+}
